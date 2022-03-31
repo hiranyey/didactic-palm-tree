@@ -1,0 +1,17 @@
+{
+    "data": [
+        {
+            "type":"text",
+            "text":"Hello world"
+        },
+        {
+            "type":"image",
+            "image":"https://pics.freeicons.io/uploads/icons/png/12401192791648031881-512.png"
+        },
+        {
+            "type":"card",
+            "text":"Card Data",
+            "image":"https://pics.freeicons.io/uploads/icons/png/11242876421648031881-512.png"
+        }
+    ]
+}
