@@ -11,7 +11,7 @@
         {
             "type":"card",
             "text":"First Card Data",
-            "image":["https://pics.freeicons.io/uploads/icons/png/11242876421648031881-512.png"]
+            "image":["https://raw.githubusercontent.com/hiranyey/didactic-palm-tree/main/cycle.png"]
         },
         {
             "type":"text",
@@ -24,7 +24,7 @@
         {
             "type":"card",
             "text":"Second Card Data",
-            "image":["https://pics.freeicons.io/uploads/icons/png/11242876421648031881-512.png"]
+            "image":["https://raw.githubusercontent.com/hiranyey/didactic-palm-tree/main/cycle.png"]
         }
     ]
 }
