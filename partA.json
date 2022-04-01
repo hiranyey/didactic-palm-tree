@@ -6,25 +6,25 @@
         },
         {
             "type":"image",
-            "image":"https://pics.freeicons.io/uploads/icons/png/12401192791648031881-512.png"
+            "image":["https://raw.githubusercontent.com/hiranyey/didactic-palm-tree/main/quiz_bad.svg","https://raw.githubusercontent.com/hiranyey/didactic-palm-tree/main/quiz_okay.svg"]
         },
         {
             "type":"card",
-            "text":"Card Data",
-            "image":"https://pics.freeicons.io/uploads/icons/png/11242876421648031881-512.png"
+            "text":"First Card Data",
+            "image":["https://pics.freeicons.io/uploads/icons/png/11242876421648031881-512.png"]
         },
         {
             "type":"text",
-            "text":"Hello world"
+            "text":"Bye world"
         },
         {
             "type":"image",
-            "image":"https://pics.freeicons.io/uploads/icons/png/12401192791648031881-512.png"
+            "image":["https://raw.githubusercontent.com/hiranyey/didactic-palm-tree/main/quiz_bad.svg","https://raw.githubusercontent.com/hiranyey/didactic-palm-tree/main/quiz_okay.svg"]
         },
         {
             "type":"card",
-            "text":"Card Data",
-            "image":"https://pics.freeicons.io/uploads/icons/png/11242876421648031881-512.png"
+            "text":"Second Card Data",
+            "image":["https://pics.freeicons.io/uploads/icons/png/11242876421648031881-512.png"]
         }
     ]
 }
